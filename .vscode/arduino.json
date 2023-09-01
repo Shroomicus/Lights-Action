@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:leonardo",
-    "sketch": "Lights-Sound-Action.ino",
+    "sketch": "Lights-Action.ino",
     "port": "COM7",
     "output": "../ArduinoOutput"
 }
